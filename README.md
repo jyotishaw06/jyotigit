@@ -1,3 +1,3 @@
 # jyotigit
 
-update project
+update project first
